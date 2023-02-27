@@ -2,7 +2,7 @@
 
 After pushing the code from the local machine to a github repository circleci detects the chages and starts the build pipline proccess.
 
-![alt text](./ScreenShots/Pipeline Circleci.png)
+![alt text](./ScreenShots/PipelineCircleci.png)
 
 
 # pipeline steps
